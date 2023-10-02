@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Travel_with_me/static/css/main.020ed0c4.css",
+    "main.js": "/Travel_with_me/static/js/main.f285ad49.js",
+    "index.html": "/Travel_with_me/index.html",
+    "main.020ed0c4.css.map": "/Travel_with_me/static/css/main.020ed0c4.css.map",
+    "main.f285ad49.js.map": "/Travel_with_me/static/js/main.f285ad49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.020ed0c4.css",
+    "static/js/main.f285ad49.js"
+  ]
+}
